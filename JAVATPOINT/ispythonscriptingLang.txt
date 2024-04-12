@@ -1,0 +1,14 @@
+Yes, Python is scripting, general-purpose, high-level, and interpreted programming language. It also provides the object-oriented programming approach. The filename extension of Python can be various types such as .py, .pyw, .pyc, .pyd, .pyz.
+
+What is a scripting language?
+The scripting language is referred to perform the task based on automating a repeated task. It includes same types of steps while implementing the procedure or program. It reduces time and cuts the costs further. The scripting languages are interpreted language instead of a compiled language. The name of few scripting languages is Perl, Visual Basic, JavaScript, Python, Unix Shell Scripts, ECMAScript, and Bash etc.
+
+Features of Scripting Language
+Below are the features of the scripting language.
+
+It runs faster and complete task efficiently.
+It is easy to learn and easy to use.
+No IDEs are required to write code.
+It is suitable for automation tasks.
+Scripting language doesn't require the memory to run the program.
+Less line code requires completing the task as compared to other languages.

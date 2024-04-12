@@ -1,0 +1,59 @@
+Here's 20 of the best resources to learn some of the most important system design concepts....
+
+I write EngineeringBlogs.fyi, where I send out curated summaries of the best backend engineering blog posts to 50k engineers. Here's some of the best posts/videos I've found.
+
+CAP Theorem
+- CAP Theorem Explained from First Principles by Arpit Bhayani - https://lnkd.in/ghNsiPpj
+
+Consistent Hashing
+- Deep Dive into Consistent Hashing By Neo K. - https://lnkd.in/e7adp_9c
+
+Domain Name System
+- Build a DNS Resolver by John Crickett - https://lnkd.in/gzgFADbR
+
+Rate Limiting
+- How Stripe does Rate Limiting - https://lnkd.in/gBpJ3HgC
+
+Caching
+HTTP Caching Deep Dive by Tiger Abrodi - https://lnkd.in/gM7m_4vG
+
+Proxy Servers
+- Concepts and Considerations for Proxies in System Design -https://lnkd.in/g28mRwB7
+
+Microservices & Monoliths
+- Why you should build a modular monolith first by Dr Milan Milanović - https://lnkd.in/gSxVG4En
+- How Airbnb transitioned away frrom a Monolith by Engineer's Codex - https://lnkd.in/gVFUV55F
+- Microservices Explained by Martin Fowler -https://lnkd.in/gDNsdEez
+
+Message De-duplication
+- How to Manage Duplicate Messages by Saurabh Dashora - https://lnkd.in/gGS-rhPr
+
+Doing Safe Rolllouts
+- 7 Tips to Safely Rollout Changes by Raviraj Achar - https://lnkd.in/g5Gh9vx6
+
+NoSQL vs. SQL
+- NoSQL vs. SQL explained in a Coursera article - https://lnkd.in/gCzxVXjE
+
+Load Balancing
+- Types of Load Balancing Algorithms by CloudFlare -
+https://lnkd.in/gHMw2jGa
+
+Circuit Breaking
+- How DoorDash Scales Microservices with Circuit Breaking, Load Shedding and Autoscaling - https://lnkd.in/gT8H3RZm
+
+Key Value Databases
+- The Architecture of Facebook's Distributed Key Value Store - https://lnkd.in/gTr7m_qH
+
+Timeout, Retries and Backoff
+- AWS Builder's Library on building Reliable Microservices - https://lnkd.in/gXPwGQd2
+
+Message Queues
+- Facebook's Distributed Message Queue -https://lnkd.in/gsvW3Bkp
+
+Consistency Models
+- Consistency Models by Jepsen - https://lnkd.in/gf6biBkR
+
+Database Sharding
+- How Notion Sharded Their Database - https://lnkd.in/gS_32Peq
+
+Hope this helps!

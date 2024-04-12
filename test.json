@@ -1,0 +1,14 @@
+{
+    "book": {
+      "id": "01",
+      "language": "English",
+      "edition": "Second",
+      "author": "Derrick Mwiti"
+    },
+    "book2": {
+      "id": "02",
+      "language": "French",
+      "edition": "Third",
+      "author": "Vladimir"
+    }
+  }
